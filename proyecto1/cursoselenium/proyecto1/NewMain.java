@@ -11,7 +11,7 @@ public class NewMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//ESTEFANIA
 		String browser = "chrome";
 		System.setProperty("webdriver.chrome.driver", "C:\\Drivers\\\\chromedriver.exe");
 		System.setProperty("webdriver.gecko.driver", "C:\\Drivers\\\\geckodriver.exe");
