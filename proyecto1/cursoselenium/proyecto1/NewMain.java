@@ -13,6 +13,10 @@ public class NewMain {
 		// TODO Auto-generated method stub
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		//comentario
+>>>>>>> Rama_Prueba
 =======
 		//comentario
 >>>>>>> Rama_Prueba
