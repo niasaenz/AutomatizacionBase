@@ -30,6 +30,7 @@ public class NewMain {
 		
 		driver.get("https://es-la.facebook.com/");
 		driver.manage().window().maximize();
+		//
 	}
 
 }
