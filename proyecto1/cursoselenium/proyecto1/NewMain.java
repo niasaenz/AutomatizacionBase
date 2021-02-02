@@ -14,6 +14,7 @@ public class NewMain {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 		//comentario
 >>>>>>> Rama_Prueba
@@ -23,6 +24,9 @@ public class NewMain {
 =======
 		//comentario
 >>>>>>> Rama_Prueba
+=======
+		//comentario
+>>>>>>> 790cac6970c1ade56c9fb0b2d4f75431faaf902a
 		String browser = "chrome";
 		System.setProperty("webdriver.chrome.driver", "C:\\Drivers\\\\chromedriver.exe");
 		System.setProperty("webdriver.gecko.driver", "C:\\Drivers\\\\geckodriver.exe");
@@ -41,6 +45,7 @@ public class NewMain {
 		
 		driver.get("https://es-la.facebook.com/");
 		driver.manage().window().maximize();
+		//
 	}
 
 }
