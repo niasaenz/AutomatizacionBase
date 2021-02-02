@@ -17,16 +17,9 @@ public class NewMain {
 <<<<<<< HEAD
 =======
 		//comentario
+<<<<<<< HEAD
 >>>>>>> Rama_Prueba
-=======
-		//comentario
->>>>>>> Rama_Prueba
-=======
-		//comentario
->>>>>>> Rama_Prueba
-=======
-		//comentario
->>>>>>> 790cac6970c1ade56c9fb0b2d4f75431faaf902a
+		//2 comentario
 		String browser = "chrome";
 		System.setProperty("webdriver.chrome.driver", "C:\\Drivers\\\\chromedriver.exe");
 		System.setProperty("webdriver.gecko.driver", "C:\\Drivers\\\\geckodriver.exe");
