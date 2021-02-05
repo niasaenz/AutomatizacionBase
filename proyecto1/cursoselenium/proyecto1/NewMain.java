@@ -36,7 +36,7 @@ public class NewMain {
 		//TimeOut
 		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(12, TimeUnit.SECONDS);
-		
+		//
 		driver.get("https://es-la.facebook.com/");
 		driver.manage().window().maximize();
 		//
