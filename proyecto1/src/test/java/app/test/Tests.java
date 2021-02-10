@@ -25,7 +25,7 @@ public class Tests {
 		public void CerrarNavegador(){
 		inicio.CerrarNavegador();
 		inicio = null;
-	}
+	}//
 
 
 }
